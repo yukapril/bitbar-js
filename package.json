@@ -1,0 +1,18 @@
+{
+  "name": "bitbar-js",
+  "version": "1.0.0",
+  "description": "BitBar Javascript App Helper",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukapril/bitbar-js.git"
+  },
+  "author": "yukapril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukapril/bitbar-js/issues"
+  },
+  "homepage": "https://github.com/yukapril/bitbar-js#readme"
+}
