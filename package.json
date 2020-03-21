@@ -1,6 +1,6 @@
 {
   "name": "bitbar-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BitBar Javascript App Helper",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/yukapril/bitbar-js/issues"
   },
-  "homepage": "https://github.com/yukapril/bitbar-js#readme"
+  "homepage": "https://github.com/yukapril/bitbar-js#readme",
+  "keywords": [
+    "bitbar",
+    "bitbar-js",
+    "bit",
+    "bar",
+    "app"
+  ]
 }
